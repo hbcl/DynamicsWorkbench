@@ -23,5 +23,5 @@ Issue a pull request if you have specific code to contribute.
 
 ### Who do I talk to? ###
 
-* This repository is managed by the hbcl team: [Human Biomechanics and Control Laboratory](http://hbcl.engin.umich.edu), University of Michigan)
+* This repository is managed by the hbcl team: [Human Biomechanics and Control Laboratory](http://hbcl.engin.umich.edu), University of Michigan
 * Main package author is Art Kuo at University of Michigan.
