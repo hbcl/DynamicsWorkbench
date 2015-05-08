@@ -12,7 +12,7 @@ DynamicsWorkbench is a Mathematica package to symbolically generate equations of
 * Set up
 The easiest way to install the package is to download it and use Mathematica's automated install. From Mathematica File menu choose Install..., select Package type, and then point to the downloaded file. Alternatively, just be sure to put the package in your path and load it manually.
 * How to load
-Use the command `Needs["DynamicsWorkbench``"]` or explicitly load with `<<DynamicsWorkbench.m`.
+Use the command `Needs["DynamicsWorkbench```"]` or explicitly load with `<<DynamicsWorkbench.m`.
 
 ### Contribution guidelines ###
 
@@ -23,5 +23,5 @@ Issue a pull request if you have specific code to contribute.
 
 ### Who do I talk to? ###
 
-* This repository is managed by the hbcl team: [Human Biomechanics and Control Laboratory](hbcl.engin.umich.edu), University of Michigan)
+* This repository is managed by the hbcl team: [Human Biomechanics and Control Laboratory](http://hbcl.engin.umich.edu), University of Michigan)
 * Main package author is Art Kuo at University of Michigan.
