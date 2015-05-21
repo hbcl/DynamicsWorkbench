@@ -9,10 +9,8 @@ DynamicsWorkbench is a Mathematica package to symbolically generate equations of
 
 ### How do I get set up? ###
 
-* Set up
-The easiest way to install the package is to download it and use Mathematica's automated install. From Mathematica File menu choose Install..., select Package type, and then point to the downloaded file. Alternatively, just be sure to put the package in your path and load it manually.
-* How to load
-Use the command ``Needs["DynamicsWorkbench`"]`` or explicitly load with `<<DynamicsWorkbench.m`.
+* Set up. The easiest way to install the package is to download it and use Mathematica's automated install. From Mathematica File menu choose Install..., select Package type, and then point to the downloaded file. Alternatively, just be sure to put the package in your path and load it manually.
+* How to load. Use the command ``Needs["DynamicsWorkbench`"]`` or explicitly load with `<<DynamicsWorkbench.m`.
 
 ### Contribution guidelines ###
 
